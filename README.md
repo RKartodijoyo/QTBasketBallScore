@@ -15,3 +15,4 @@ Linux Kernel 4.8.0-53-generic #56~16.04.1-Ubuntu SMP Tue May 16 01:18:56 UTC 201
 Linux mint Cinamon
 
 if you need help contact me in rizalkartodijoyo@gmail.com
+![Alt text](https://github.com/RKartodijoyo/QTBasketBallScore/blob/master/basketballfinal.png?raw=true?raw=true "Title")
