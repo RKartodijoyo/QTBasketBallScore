@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>scoreboard.ttf</file>
+        <file>crashedscoreboard.ttf</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>out.txt</file>
+        <file>tet.ogg</file>
+        <file>tet.wav</file>
+        <file>nama.txt</file>
+    </qresource>
+</RCC>
